@@ -32,8 +32,8 @@
 	<div class="content-utama">
 	
 	<p> 
-					<table border=1>
-					<tr>
+	   <table border=1>
+		<tr>
 				<?php
 					include("koneksi.php");
 					$kolom = 3;
@@ -49,10 +49,7 @@
 				<h5><td><p align="center"><?php echo $data['namaCandi']; ?><br>
 				<img src="img/imgg/<?php echo $data['gambarcandi'];?>" height="160" width="160" style="margin:5px;"/><br>
 				Keterangan : <?php echo $data['keterangancandi']; ?><br>
-				</h5></p></td>
-				<?php
-					}
-				?>
+				</h5></p></
 </tr>
 </table>
 	</p>
@@ -65,15 +62,7 @@
 	<i class="fa fa-twitter"> </i>
 	<i class="fa fa-instagram"> </i>
 	<i class="fa fa-google-plus"> </i>
-	
-	
-	
 	</a>
-	
 	</div>
-
-
-
-	
 </body>
 </html>
