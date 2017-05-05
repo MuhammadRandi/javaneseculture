@@ -79,19 +79,8 @@
 	<i class="fa fa-twitter"> </i>
 	<i class="fa fa-instagram"> </i>
 	<i class="fa fa-google-plus"> </i>
-	
-	
-	
 	</a>
-	
-	
 	</div>
-
-
-
-
-
-
 			<script src="js/jquery-1.11.3.js"></script>
 			<script src="js/owl.carousel.js"></script>
 			<script>
@@ -114,12 +103,8 @@
 					  // itemsDesktopSmall : false,
 					  // itemsTablet: false,
 					  // itemsMobile : false
-					  
-				 
 				  });
-				 
 				});
 			</script>
-	
 </body>
 </html>
