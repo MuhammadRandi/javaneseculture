@@ -29,9 +29,7 @@
 	</ul>
 	</div>
 	<div class="content-utama-hubungi">
-	 <h4> <b> Profil </b> </h4> 
-	
-
+	 <h3> <b> Profil </b> </h3> 
 	<pre>
 	Ferdiansyah Edo S		: 6706154192
 	Gloria Ruth H   		: 6706154166
