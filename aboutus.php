@@ -45,14 +45,7 @@
 	<i class="fa fa-twitter"> </i>
 	<i class="fa fa-instagram"> </i>
 	<i class="fa fa-google-plus"> </i>
-	
-	
-	
-	</a>
-	
+	</a>	
 	</div>
-
-
-
 </body>
 </html>
