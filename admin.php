@@ -43,7 +43,7 @@
                     Keterangan : <input type="textarea" class="form-control" name="keterangancandi">
                 </div>
 				<div class="form-group">
-                    provinsi : <input type="textarea" class="form-control" name="status">
+                    provinsi : <textarea cols = "50" rows = "20" type="text" class="form-control" name="status"></textarea>
                 </div>
                 <input type="submit" class="btn btn-block btn-custom-green" name="submit" value="Submit" />
             </form>
